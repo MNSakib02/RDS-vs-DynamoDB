@@ -1,1 +1,2 @@
-# RDS-vs-DynamoDB
+# About
+Contains Information about RDS and DynamoDB
